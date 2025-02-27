@@ -1,13 +1,13 @@
 {
-  "productName": "WeRead",
-  "identifier": "com.pake.weread",
+  "productName": "CloudDispatch",
+  "identifier": "com.songzhi.clouddispatch",
   "version": "1.0.0",
   "app": {
     "withGlobalTauri": true,
     "trayIcon": {
-      "iconPath": "png/weread_512.png",
+      "iconPath": "png/clouddispatch_512.png",
       "iconAsTemplate": false,
-      "id": "pake-tray"
+      "id": "clouddispatch-tray-icon"
     }
   },
   "build": {
