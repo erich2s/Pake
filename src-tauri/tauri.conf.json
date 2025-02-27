@@ -1,13 +1,13 @@
 {
   "productName": "CloudDispatch",
-  "identifier": "com.songzhi.clouddispatch",
+  "identifier": "com.songzhi.cloud-dispatch",
   "version": "1.0.0",
   "app": {
     "withGlobalTauri": true,
     "trayIcon": {
-      "iconPath": "png/clouddispatch_512.png",
+      "iconPath": "png/CloudDispatch.png",
       "iconAsTemplate": false,
-      "id": "clouddispatch-tray-icon"
+      "id": "cloud-dispatch-tray-icon"
     }
   },
   "build": {
